@@ -1,1 +1,3 @@
-# primeiros_testes_python
+# primeiros testes em python 
+calculadora 
+forca
